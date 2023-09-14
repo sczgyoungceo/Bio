@@ -1,6 +1,6 @@
 #  Ciao a tutti!
 
-🚀 Aboout Me
+🚀 About Me
 _____________
 
 🧑🏻 Mi chiamo Leonardo Tommasi, sono un aspirante Web Developer, che si è innamorato della programmazione a 28 anni!
