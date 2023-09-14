@@ -17,6 +17,6 @@ _____________
 
 ⌨️🖱️ I computer e la tecnologia
 
-![instagram](https://img.shields.io/badge/Instagram-5e63b6?style=for-the-badge&logo=Instagram&logoColor=white)]
+![instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=Instagram&logoColor=white)]
 
 
