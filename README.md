@@ -17,6 +17,6 @@ _____________
 
 ⌨️🖱️ I computer e la tecnologia
 
-![instagram](https://www.instagram.com/leobiz.sczg/badge/Instagram-00000?style=for-the-badge&logo=Instagram&logoColor=white)]
+
 
 
