@@ -13,9 +13,9 @@ _____________
 
 🎾 Il Padel, da giocatore ma soprattutto da spettatore!
 
-🎮 I videogiochi
+#003791 I videogiochi
 
 ⌨️🖱️ I computer e la tecnologia
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
+
 
